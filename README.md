@@ -1,5 +1,7 @@
 # 🎥 YouTube Downloader API
 
+[![CI](https://github.com/axrorback/youtube-downloader-api/actions/workflows/ci.yml/badge.svg)](https://github.com/axrorback/youtube-downloader-api/actions/workflows/ci.yml)
+
 `FastAPI` va `yt-dlp` yordamida qurilgan **YouTube video/audio yuklab olish API**.
 Swagger hujjatlashuvi, Postman testlari va Telegram bot integratsiyasi uchun tayyor.
 
@@ -8,7 +10,7 @@ Swagger hujjatlashuvi, Postman testlari va Telegram bot integratsiyasi uchun tay
 ## ✨ Xususiyatlari
 
 * 📺 **Video yuklab olish** (istalgan sifat va formatda)
-* 🎧 **Audio (mp3/mp4a) yuklab olish**
+* 🎷 **Audio (mp3/mp4a) yuklab olish**
 * 📂 **Formatlarni ko‘rsatish** (resolution, codec, ext va h.k.)
 * ⚡ **StreamingResponse** orqali katta fayllarni oqim bilan berish
 * 🔗 **Download link** berish imkoniyati (Telegram bot integratsiyasi uchun qulay)
@@ -152,3 +154,13 @@ pydantic
 ## 📜 Litsenziya
 
 MIT License bilan tarqatiladi.
+
+---
+
+## 🌍 Open Source
+
+Bu loyiha **to‘liq ochiq kodli (Open Source)**.
+Istalgan foydalanuvchi undan foydalanishi, fork qilishi va hissa qo‘shishi mumkin.
+
+👉 Agar loyiha yoqqan bo‘lsa, **⭐️ Star bosishni unutmang!**
+Bu kichik harakat loyiha rivojiga katta yordam beradi. 🙌
