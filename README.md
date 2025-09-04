@@ -1,6 +1,6 @@
 # 🎥 YouTube Downloader API
 
-[![CI](https://github.com/axrorback/youtube-downloader-api/actions/workflows/python-app.yml/badge.svg)](https://github.com/axrorback/youtube-downloader-api/actions/workflows/python-app.yml)
+[![CI](https://github.com/axrorback/youtube-downloader-api/.github/workflows/python-app.yml/badge.svg)](https://github.com/axrorback/youtube-downloader-api/.github/workflows/python-app.yml)
 
 
 `FastAPI` va `yt-dlp` yordamida qurilgan **YouTube video/audio yuklab olish API**.
