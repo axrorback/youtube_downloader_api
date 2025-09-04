@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache & build
+*.egg-info/
+.eggs/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+
+# Downloads (YouTube videos, audio)
+downloads/
+*.mp4
+*.webm
+*.mkv
+*.mp3
+*.m4a
+*.part
+*.ytdl
+
+# Uvicorn / FastAPI logs
+*.db
+*.sqlite3
+*.log
